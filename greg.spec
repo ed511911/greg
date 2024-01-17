@@ -2,6 +2,7 @@ Name: greg
 Version: 1.0
 Release: 1%{?dist}
 Summary: Alias for grep
+License: MIT
 
 %description
 This package provides an alias 'greg' for the 'grep' command.
